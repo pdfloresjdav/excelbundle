@@ -1,17 +1,6 @@
 {
     "name": "pdfloresjdav/excelbundle",
     "description": "This is a Symfony2 Bundle helps you to read and write Excel files (including pdf, xlsx, odt), thanks to the PHPExcel library",
-    "authors": [
-        {
-            "name": "Giulio De Donato",
-            "email": "liuggio@gmail.com"
-        },
-        {
-            "name": "ExcelBundle Contributors",
-            "homepage": "https://github.com/liuggio/ExcelBundle#contributors"
-        }
-    ],
-
     "keywords": ["xls","Excel", "symfony2", "bundle"],
     "homepage": "http://www.welcometothebundle.com",
     "license": "MIT",
